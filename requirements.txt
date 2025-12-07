@@ -1,0 +1,9 @@
+librosa
+whisper
+jiwer
+gTTS
+matplotlib
+speechrecognition
+numpy
+soundfile
+torch
